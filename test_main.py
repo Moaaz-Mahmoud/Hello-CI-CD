@@ -8,8 +8,8 @@ class TestMain(unittest.TestCase):
         self.assertEqual(result, 12)
         
     def test_add_numbers_c2(self):
-    	result = add_numbers(8, 2)
-    	self.assertEqual(result, 10)
+        result = add_numbers(8, 2)
+        self.assertEqual(result, 10)
 
 
 if __name__ == '__main__':
