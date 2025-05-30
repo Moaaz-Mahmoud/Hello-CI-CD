@@ -1,3 +1,5 @@
+name: Print Date
+
 on:
     push:
         branches: [master]
